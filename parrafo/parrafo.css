@@ -1,0 +1,47 @@
+body {
+	background-color: #f2f2f2;
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	color: #00698f;
+    text-align: center;
+}
+
+p {
+	color: #666;
+	margin-bottom: 20px;
+    text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: #00698f;
+    display: block;
+    text-align: center;
+}
+
+a:hover {
+	color: #0099cc;
+    
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+li {
+	margin-bottom: 10px;
+}
+
+img {
+	width: 200px;
+	height: 150px;
+	border: 1px solid #ddd;
+	margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
